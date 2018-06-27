@@ -1,0 +1,16 @@
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\UnitFilterDigitTest.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\UnitFilterDigitTest.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\FilterDigitLogic.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\FilterDigitLogic.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\obj\Debug\UnitFilterDigitTest.csprojResolveAssemblyReference.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\obj\Debug\UnitFilterDigitTest.csproj.CoreCompileInputs.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\obj\Debug\UnitFilterDigitTest.csproj.CopyComplete
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\obj\Debug\UnitFilterDigitTest.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitFilterDigitTest\obj\Debug\UnitFilterDigitTest.pdb

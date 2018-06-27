@@ -1,0 +1,6 @@
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\FilterDigitLogic\bin\Debug\FilterDigitLogic.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\FilterDigitLogic\bin\Debug\FilterDigitLogic.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\FilterDigitLogic\obj\Debug\FilterDigitLogic.csprojResolveAssemblyReference.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\FilterDigitLogic\obj\Debug\FilterDigitLogic.csproj.CoreCompileInputs.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\FilterDigitLogic\obj\Debug\FilterDigitLogic.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\FilterDigitLogic\obj\Debug\FilterDigitLogic.pdb

@@ -1,0 +1,16 @@
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\UnitByteInsertTest.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\UnitByteInsertTest.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\ByteInsertLogic.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\ByteInsertLogic.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\obj\Debug\UnitByteInsertTest.csprojResolveAssemblyReference.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\obj\Debug\UnitByteInsertTest.csproj.CoreCompileInputs.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\obj\Debug\UnitByteInsertTest.csproj.CopyComplete
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\obj\Debug\UnitByteInsertTest.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\UnitByteInsertTest\obj\Debug\UnitByteInsertTest.pdb
