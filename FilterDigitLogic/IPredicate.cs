@@ -12,6 +12,6 @@ namespace FilterDigitLogic
     /// <typeparam name="T"></typeparam>
     public interface IPredicate<T>
     {
-        bool IsDigit(int check);
+        bool IsMatch(T check);
     }
 }

@@ -15,15 +15,15 @@ namespace FilterDigitLogic
         /// <param name="array">Source array</param>
         /// <param name="predicate">Filter criterion</param>
         /// <returns>Filtered array</returns>
-        public static int[] FilterDigit<T>(this int[] array, IPredicate<T> predicate)
+        public static T[] FilterDigit<T>( IPredicate<T> predicate, params T[] array)
         {
-            Validate(array,predicate);
+            Validate(array,predicate);  
 
-            List<int> list = new List<int>();
+            List<T> list = new List<T>();
 
             for (int i = 0; i < array.Length; i++)
             {
-                if (predicate.IsDigit(array[i]))
+                if (predicate.IsMatch(array[i]))
                 {
                     list.Add(array[i]);
                 }
@@ -38,7 +38,7 @@ namespace FilterDigitLogic
         /// <typeparam name="T"></typeparam>
         /// <param name="array">Source array</param>
         /// <param name="predicate">Filter criterion</param>
-        private static void Validate<T>(int[] array, IPredicate<T> predicate)
+        private static void Validate<T>(T[] array, IPredicate<T> predicate)
         {
             if (array == null)
                 throw new ArgumentNullException(nameof(array));

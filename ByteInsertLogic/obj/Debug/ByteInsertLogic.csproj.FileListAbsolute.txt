@@ -4,3 +4,9 @@ E:\EPAM_Summer\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLo
 E:\EPAM_Summer\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.csproj.CoreCompileInputs.cache
 E:\EPAM_Summer\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.dll
 E:\EPAM_Summer\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\NET.S.2018.Drachylouski.02\ByteInsertLogic\bin\Debug\ByteInsertLogic.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\NET.S.2018.Drachylouski.02\ByteInsertLogic\bin\Debug\ByteInsertLogic.pdb
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.csprojResolveAssemblyReference.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.csproj.CoreCompileInputs.cache
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.dll
+E:\EPAM_Summer\NET.S.2018.Drachylouski.02\NET.S.2018.Drachylouski.02\ByteInsertLogic\obj\Debug\ByteInsertLogic.pdb
