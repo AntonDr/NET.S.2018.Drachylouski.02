@@ -15,22 +15,64 @@ namespace FilterDigitLogic
         /// <param name="array">Source array</param>
         /// <param name="predicate">Filter criterion</param>
         /// <returns>Filtered array</returns>
-        public static T[] FilterDigit<T>( IPredicate<T> predicate, params T[] array)
+        public static IEnumerable<T> Filter<T>(this IEnumerable<T> source,IPredicate<T> predicate)
         {
-            Validate(array,predicate);  
-
-            List<T> list = new List<T>();
-
-            for (int i = 0; i < array.Length; i++)
+            if (source == null)
             {
-                if (predicate.IsMatch(array[i]))
-                {
-                    list.Add(array[i]);
-                }
+                throw new ArgumentNullException(nameof(source));
             }
 
-            return list.ToArray();
+            if (predicate == null)
+            {
+                throw new ArgumentNullException(nameof(predicate));
+            }
+
+            return Filter(source,predicate.IsMatch);
         }
+
+        /// <summary>
+        /// Filters the specified predicate.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="source">The source.</param>
+        /// <param name="predicate">The predicate.</param>
+        /// <returns></returns>
+        /// <exception cref="ArgumentNullException">
+        /// source
+        /// or
+        /// predicate
+        /// </exception>
+        public static IEnumerable<T> Filter<T>(this IEnumerable<T> source, Func<T, bool> predicate)
+        {
+            if (source == null)
+            {
+                throw new ArgumentNullException(nameof(source));
+            }
+
+            if (predicate == null)
+            {
+                throw new ArgumentNullException(nameof(predicate));
+            }
+
+            return FilterInner<T>(source, predicate);
+        }
+
+        /// <summary>
+        /// Filters the inner.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="source">The source.</param>
+        /// <param name="predicate">The predicate.</param>
+        /// <returns></returns>
+        private static IEnumerable<T> FilterInner<T>(this IEnumerable<T> source, Func<T, bool> predicate)
+        {
+            foreach (var element in source)
+            {
+                if (predicate(element))
+                    yield return element;
+            }
+        }
+
 
         /// <summary>
         /// Data validation
